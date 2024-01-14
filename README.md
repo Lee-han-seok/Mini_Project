@@ -34,7 +34,7 @@
   - 대회 링크 : [🔗](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud)
   - Summary : AutoEncoder, RF, LGBM, XGB, Catboost등을 활용한 이상탐지
 
-### [🔗]() 4. Regression with a Crab Age Dataset [23.11]
+### [🔗](https://github.com/Lee-han-seok/Mini_Project/tree/main/%5B23.11%5D%20crab%20age%20predict) 4. Regression with a Crab Age Dataset [23.11]
   - About : Crab 나이 예측 모델링 (회귀)
   - 대회 링크 : [🔗](https://www.kaggle.com/competitions/playground-series-s3e16/overview)
   - Summary : Optuna, Pycaret을 활용한 회귀 모델 구축
