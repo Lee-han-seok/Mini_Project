@@ -13,7 +13,9 @@
 ### [🔗](https://github.com/Lee-han-seok/Mini_Project/tree/main/%5B22.12%5D%20%EB%B9%85%EB%B6%84%EA%B8%B0%20%EC%8B%A4%EA%B8%B0%20%EC%A4%80%EB%B9%84) 4. 빅데이터분석기사 실기 준비  [22.12]
   - Summary : 빅데이터 분석 기사 실기 준비 [모델링 (회귀, 분류), 데이터 전처리 등]
 
-### [🔗](https://github.com/Lee-han-seok/Mini_Project/tree/main/%5B23.10%5D%20RNN%EC%9D%84%ED%99%9C%EC%9A%A9%ED%95%9CTSLA%EC%A3%BC%EA%B0%80%EC%98%88%EC%B8%A1) 5. RNN을 활용한 TSLA 주가 예측  [23.10]
+### [🔗](https://github.com/Lee-han-seok/Mini_Project/tree/main/%5B23.08%5D%20%ED%95%9C%EA%B0%95%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EC%8B%9C%EA%B0%81%ED%99%94) 5. 한강 데이터 시각화(안전 요소 중심으로)  [23.08]
+  - Summary : 한강 관련 데이터 수집 및 통합, 안전 위험 요소 식별 목적 시각화, 인사이트 도출
+### [🔗](https://github.com/Lee-han-seok/Mini_Project/tree/main/%5B23.10%5D%20RNN%EC%9D%84%ED%99%9C%EC%9A%A9%ED%95%9CTSLA%EC%A3%BC%EA%B0%80%EC%98%88%EC%B8%A1) 6. RNN을 활용한 TSLA 주가 예측  [23.10]
   - Summary : finance-datareader 라이브러리와 RNN을 활용한 주가 예측
 
 ## Kaggle 🌊
